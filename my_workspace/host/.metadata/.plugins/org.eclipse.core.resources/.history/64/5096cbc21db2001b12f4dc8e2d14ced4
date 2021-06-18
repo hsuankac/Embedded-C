@@ -1,0 +1,12 @@
+/*
+ * main.c
+ *
+ *  Created on: May 10, 2021
+ *      Author: kevin
+ */
+#include <stdio.h>
+int main(void){
+	double number = 3.1341341343;
+	printf("Number is %0.14lf\n", number);
+	return 0;
+}

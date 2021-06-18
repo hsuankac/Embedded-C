@@ -1,4 +1,5 @@
-23:27:46 **** Rebuild of configuration Debug for project 000TestProject ****
+22:42:28 **** Rebuild of configuration Debug for project pointer ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
-gcc -o 000TestProject.exe main.o 
+gcc -o pointer.exe main.o 
+Info: Nothing to build for pointer
