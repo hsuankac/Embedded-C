@@ -130,3 +130,153 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-04-07 23:16:14.031
 !MESSAGE Indexed 'bitWiseSet' (1 sources, 11 headers) in 0.112 sec: 525 declarations; 1,191 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2021-07-27 22:15:21.008 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\kai_project\Embedded-C\instructor\host
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-27 22:15:29.433
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-27 22:15:29.492
+!MESSAGE Log4j initialized with config file C:\kai_project\Embedded-C\instructor\host\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.907
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.shells.ui.view.commandsView" id and the "Remote Shell" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.913
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemView" id and the "Remote Systems" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.914
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.teamView" id and the "Team" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.917
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemTableView" id and the "Remote System Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.919
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.SystemSearchView" id and the "Remote Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.921
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.scratchpad.SystemScratchpadViewPart" id and the "Remote Scratchpad" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2021-07-27 22:15:36.923
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.monitorView" id and the "Remote Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-27 22:15:43.570
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:17.215
+!MESSAGE Indexed 'switchCaseArea' (2 sources, 18 headers) in 0.552 sec: 1,344 declarations; 2,149 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:17.539
+!MESSAGE Indexed 'union' (2 sources, 18 headers) in 0.302 sec: 1,332 declarations; 2,002 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:17.674
+!MESSAGE Indexed 'ifstatementCastVote' (1 sources, 18 headers) in 0.132 sec: 1,323 declarations; 1,985 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:17.808
+!MESSAGE Indexed 'macro' (2 sources, 14 headers) in 0.13 sec: 1,278 declarations; 1,825 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:17.947
+!MESSAGE Indexed 'forloopNumberPyramid' (1 sources, 18 headers) in 0.136 sec: 1,329 declarations; 1,994 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.079
+!MESSAGE Indexed 'ASCII' (2 sources, 14 headers) in 0.125 sec: 1,288 declarations; 1,825 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.196
+!MESSAGE Indexed 'pointer_1' (1 sources, 14 headers) in 0.112 sec: 1,279 declarations; 1,809 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.333
+!MESSAGE Indexed 'arrays_passing' (2 sources, 18 headers) in 0.132 sec: 1,344 declarations; 2,023 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.581
+!MESSAGE Indexed 'student_record' (1 sources, 20 headers) in 0.246 sec: 1,931 declarations; 2,822 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.724
+!MESSAGE Indexed 'type_casting' (1 sources, 14 headers) in 0.14 sec: 1,276 declarations; 1,792 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.832
+!MESSAGE Indexed 'pointer' (1 sources, 14 headers) in 0.102 sec: 1,277 declarations; 1,800 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:18.974
+!MESSAGE Indexed 'test' (1 sources, 14 headers) in 0.138 sec: 1,277 declarations; 1,794 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.105
+!MESSAGE Indexed 'ifelseifTax' (2 sources, 18 headers) in 0.128 sec: 1,338 declarations; 2,039 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.258
+!MESSAGE Indexed 'struct_array' (1 sources, 20 headers) in 0.15 sec: 1,882 declarations; 2,669 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.395
+!MESSAGE Indexed 'pointer_2' (2 sources, 18 headers) in 0.131 sec: 1,328 declarations; 2,001 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.504
+!MESSAGE Indexed 'strings' (1 sources, 14 headers) in 0.106 sec: 1,274 declarations; 1,800 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.714
+!MESSAGE Indexed 'WhileLoop1to10' (2 sources, 18 headers) in 0.207 sec: 1,334 declarations; 1,991 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.838
+!MESSAGE Indexed 'bitWiseEvenOdd' (1 sources, 18 headers) in 0.123 sec: 1,327 declarations; 1,988 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:19.966
+!MESSAGE Indexed 'math' (3 sources, 16 headers) in 0.125 sec: 1,312 declarations; 1,811 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.13%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.065
+!MESSAGE Indexed 'function' (1 sources, 14 headers) in 0.095 sec: 1,283 declarations; 1,798 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.200
+!MESSAGE Indexed 'structInit' (2 sources, 18 headers) in 0.133 sec: 1,332 declarations; 1,986 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.319
+!MESSAGE Indexed 'arrays_swap' (1 sources, 18 headers) in 0.116 sec: 1,352 declarations; 2,072 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.436
+!MESSAGE Indexed 'arrays' (1 sources, 18 headers) in 0.116 sec: 1,325 declarations; 1,992 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.556
+!MESSAGE Indexed 'dataAlignment' (1 sources, 18 headers) in 0.117 sec: 1,331 declarations; 2,002 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.702
+!MESSAGE Indexed 'forLoopEvenNum' (2 sources, 18 headers) in 0.144 sec: 1,338 declarations; 2,025 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.819
+!MESSAGE Indexed 'ifelseBiggestOfTwo' (1 sources, 18 headers) in 0.115 sec: 1,330 declarations; 2,008 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:20.999
+!MESSAGE Indexed 'whileLoopEvenNum' (2 sources, 18 headers) in 0.178 sec: 1,338 declarations; 2,025 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.125
+!MESSAGE Indexed 'bitWise2Numbers' (1 sources, 18 headers) in 0.123 sec: 1,328 declarations; 1,995 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.284
+!MESSAGE Indexed 'test2' (2 sources, 14 headers) in 0.155 sec: 1,282 declarations; 1,809 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.400
+!MESSAGE Indexed 'structPointer' (1 sources, 18 headers) in 0.112 sec: 1,332 declarations; 2,000 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.534
+!MESSAGE Indexed 'Average' (2 sources, 14 headers) in 0.132 sec: 1,284 declarations; 1,817 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.674
+!MESSAGE Indexed 'ifelseCastVote' (1 sources, 18 headers) in 0.137 sec: 1,323 declarations; 1,984 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.808
+!MESSAGE Indexed 'structPacketBitfield' (2 sources, 18 headers) in 0.131 sec: 1,346 declarations; 2,120 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:21.963
+!MESSAGE Indexed 'unionBitExraction' (1 sources, 18 headers) in 0.152 sec: 1,335 declarations; 2,024 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:22.081
+!MESSAGE Indexed 'structPacket' (2 sources, 18 headers) in 0.116 sec: 1,346 declarations; 2,120 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:22.191
+!MESSAGE Indexed 'constdata' (1 sources, 18 headers) in 0.107 sec: 1,324 declarations; 1,985 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:22.385
+!MESSAGE Indexed 'var_address' (2 sources, 14 headers) in 0.189 sec: 1,278 declarations; 1,795 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-27 22:18:22.516
+!MESSAGE Indexed 'bitWiseSet' (1 sources, 18 headers) in 0.129 sec: 1,328 declarations; 1,988 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
