@@ -49,3 +49,90 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Embedded-C\in
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-04-07 23:20:43.219
 !MESSAGE Indexed '008button_ISR' (3 sources, 55 headers) in 0.529 sec: 2,126 declarations; 2,916 references; 0 unresolved inclusions; 6 syntax errors; 8 unresolved names (0.16%)
+!SESSION 2022-11-17 11:13:04.852 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\learning\Embedded-C\instructor\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-17 11:13:13.183
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-17 11:13:13.277
+!MESSAGE Log4j initialized with config file C:\learning\Embedded-C\instructor\target\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.234
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.shells.ui.view.commandsView" id and the "Remote Shell" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.237
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemView" id and the "Remote Systems" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.239
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.teamView" id and the "Team" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.240
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemTableView" id and the "Remote System Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.243
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.SystemSearchView" id and the "Remote Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.245
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.scratchpad.SystemScratchpadViewPart" id and the "Remote Scratchpad" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.250
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.monitorView" id and the "Remote Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2022-11-17 11:13:18.251
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.search.SearchResultView" id and the "Classic Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-17 11:13:21.309
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:43.920
+!MESSAGE Indexed '001HelloWorld' (4 sources, 52 headers) in 0.906 sec: 2,129 declarations; 2,809 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:44.347
+!MESSAGE Indexed '010led_toggle_bitfields' (5 sources, 55 headers) in 0.424 sec: 2,147 declarations; 3,005 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:44.694
+!MESSAGE Indexed '005led_toggle' (5 sources, 53 headers) in 0.343 sec: 2,019 declarations; 2,881 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:44.980
+!MESSAGE Indexed '003Add' (5 sources, 51 headers) in 0.284 sec: 2,113 declarations; 2,800 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:45.232
+!MESSAGE Indexed '006pin_read' (5 sources, 53 headers) in 0.249 sec: 2,021 declarations; 2,888 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:45.483
+!MESSAGE Indexed '011keypad' (5 sources, 55 headers) in 0.249 sec: 2,177 declarations; 3,152 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:45.780
+!MESSAGE Indexed '009packed_Vsnonpacked' (5 sources, 52 headers) in 0.295 sec: 2,143 declarations; 2,850 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:46.044
+!MESSAGE Indexed '007volatile' (5 sources, 53 headers) in 0.262 sec: 2,013 declarations; 2,860 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:46.380
+!MESSAGE Indexed '002Sizeof' (5 sources, 52 headers) in 0.332 sec: 2,131 declarations; 2,819 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:46.626
+!MESSAGE Indexed '004led_on' (5 sources, 53 headers) in 0.245 sec: 2,015 declarations; 2,868 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-11-17 11:13:46.910
+!MESSAGE Indexed '008button_ISR' (5 sources, 55 headers) in 0.281 sec: 2,193 declarations; 3,069 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+!SESSION 2022-11-17 11:36:54.565 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\learning\Embedded-C\instructor\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-11-17 11:37:01.768
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-11-17 11:37:01.872
+!MESSAGE Log4j initialized with config file C:\learning\Embedded-C\instructor\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-11-17 11:37:11.371
+!MESSAGE Started RMI Server, listening on port 41337
