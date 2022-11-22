@@ -1,0 +1,17 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 21, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+#include <stdint.h>
+
+void wait_for_user_input(void);
+
+int main(void)
+{
+	int32_t num1, num2;
+
+}

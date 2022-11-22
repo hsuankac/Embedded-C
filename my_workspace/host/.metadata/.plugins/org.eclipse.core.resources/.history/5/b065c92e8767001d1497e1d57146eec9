@@ -1,0 +1,21 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 18, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	float number1, number2, number3;
+	float average;
+
+	printf("Enter the first number: ");
+	scanf("%f", &number1);
+	printf("\nEnter the second number: ");
+	scanf("%f", &number2);
+	printf("\nEnter the third number: ");
+	scanf("%f", &number3);
+}

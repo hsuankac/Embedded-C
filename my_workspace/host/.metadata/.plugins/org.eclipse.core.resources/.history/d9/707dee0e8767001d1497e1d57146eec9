@@ -1,0 +1,16 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 18, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	float number1, number2, numver3;
+	float average;
+
+
+}

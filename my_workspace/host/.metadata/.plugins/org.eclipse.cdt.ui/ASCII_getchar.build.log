@@ -1,0 +1,5 @@
+21:50:04 **** Clean-only build of configuration Debug for project ASCII_getchar ****
+rm -rf main.o ASCII_getchar.exe main.d 
+
+21:50:05 Build Finished. 0 errors, 0 warnings. (took 1s.143ms)
+

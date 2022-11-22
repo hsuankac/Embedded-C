@@ -1,0 +1,26 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 21, 2022
+ *      Author: hsuankai.chang
+ */
+
+
+#include <stdint.h>
+#include <stdio.h>
+
+struct carModel
+{
+	uint32_t carNumber;
+	uint32_t carPrice;
+	uint16_t carMaxSpeed;
+	float carWeight;
+};
+
+int main(void)
+{
+	struct carModel carBMW = {0, 0, 0, 0};
+
+
+	return 0;
+}

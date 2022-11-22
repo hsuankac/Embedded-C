@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 21, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+#include <stdint.h>
+
+int main(void)
+{
+	uint8_t const data = 10;
+
+	printf("Value = &u\n", data);
+
+	uint8_t *ptr = (uint8_t*)&data;
+}

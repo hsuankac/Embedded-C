@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 18, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	float number = 45.781231831318313;
+	printf("Number = %0.2f\n", number);
+	printf("Number = %0.2e\n", number);
+
+	return 0;
+}
+

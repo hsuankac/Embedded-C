@@ -38,7 +38,10 @@ b:
 	.section	.rodata
 	.align	2
 .LC0:
-	.ascii	"Result is %d\000"
+	.ascii	"Hello World\000"
+	.align	2
+.LC1:
+	.ascii	"Result is %d\012\000"
 	.section	.text.main,"ax",%progbits
 	.align	1
 	.global	main
@@ -69,13 +72,16 @@ main:
 	ldr	r2, .L3+8
 	str	r3, [r2]
 	.loc 1 32 2
+	ldr	r0, .L3+12
+	bl	puts
+	.loc 1 33 2
 	ldr	r3, .L3+8
 	ldr	r3, [r3]
 	mov	r1, r3
-	ldr	r0, .L3+12
+	ldr	r0, .L3+16
 	bl	printf
 .L2:
-	.loc 1 34 2 discriminator 1
+	.loc 1 35 2 discriminator 1
 	b	.L2
 .L4:
 	.align	2
@@ -84,6 +90,7 @@ main:
 	.word	b
 	.word	result
 	.word	.LC0
+	.word	.LC1
 	.cfi_endproc
 .LFE3:
 	.size	main, .-main

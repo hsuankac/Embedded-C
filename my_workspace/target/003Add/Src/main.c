@@ -29,7 +29,8 @@ int b = 20;
 int main(void)
 {
 	result = a + b;
-	printf("Result is %d", result);
+	printf("Hello World\n");
+	printf("Result is %d\n", result);
     /* Loop forever */
 	for(;;);
 }

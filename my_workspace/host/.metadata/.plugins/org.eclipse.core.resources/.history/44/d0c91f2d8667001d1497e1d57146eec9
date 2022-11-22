@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *
+ *  Created on: Nov 18, 2022
+ *      Author: hsuankai.chang
+ */
+
+#include <stdio.h>
+
+int main()
+{
+	double chareE = -1.60217662E-19;
+	printf("Number = %f\n", chareE);
+	printf("Number = %e\n", chareE);
+
+	return 0;
+}
+
