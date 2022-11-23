@@ -1953,3 +1953,10 @@
 2022-11-22 15:18:28,976 [INFO] ApiDb:443 - Save user favorites file C:\Users\hsuankai.chang/.stm32cubeide/favorites.boards.txt: 0 item(s)
 2022-11-22 15:18:28,976 [INFO] ApiDb:447 - User favorites Boards=[]
 2022-11-22 15:41:59,411 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2022-11-22 16:04:58,253 [INFO] Activator:177 - 
+
+
+2022-11-22 16:04:58,254 [INFO] Activator:178 - !SESSION log4j initialized
+2022-11-22 16:05:29,205 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2022-11-22 16:05:29,206 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2022-11-22 16:05:29,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
